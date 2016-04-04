@@ -1,0 +1,25 @@
+{
+  "name": "wdgizzi-fairytale",
+  "version": "1.0.0",
+  "description": "I thought Balzac was a wizard's name. So when I forked and tweaked [Cole Townsend's](@twnsndco) Balzac for Jekyll theme I named it Fairytale. It's a theme which is heavy on typography. I did little modification to the home page. But I took my liberty with the rest. Fairytale is my first theme for jekyll. I didn't change the layout more than was necessary since I intend the theme to reflect Balzac in functionaliy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gizzidan/wdgizzi-fairytale.git"
+  },
+  "author": "William D. Gizzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gizzidan/wdgizzi-fairytale/issues"
+  },
+  "homepage": "https://github.com/gizzidan/wdgizzi-fairytale#readme",
+  "devDependencies": {
+    "browser-sync": "^2.11.2",
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.5.2",
+    "lodash": "^4.6.1"
+  }
+}
