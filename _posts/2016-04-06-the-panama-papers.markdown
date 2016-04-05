@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-light-feature
 title: "The Panama Papers"
 description: "Data examined by the Süddeutsche Zeitung provides us with deep insight to the shady practices used by the rich & famous to cover up their business dealings."
 category: articles
