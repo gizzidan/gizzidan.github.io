@@ -1,7 +1,8 @@
 ---
-layout: post-light-feature
+layout: post-dark-feature
 title: "The Panama Papers"
 description: "Data examined by the Süddeutsche Zeitung provides us with deep insight to the shady practices used by the rich & famous to cover up their business dealings."
+quote: "Pigs get fat, hogs get slaughtered."
 category: articles
 typefix:
 tags: [news, leaks]
