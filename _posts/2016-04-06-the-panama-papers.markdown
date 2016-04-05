@@ -14,7 +14,7 @@ image:
 ## Who?
 First, it should be noted that more research is needed to establish which— *and how many* —of those implicated are using the offshore companies for "bad" practices. [Here is an ELI5 on Reddit.](https://www.reddit.com/r/explainlikeimfive/comments/4d8rta/eli5_the_panama_papers/d1owxn5)
 
-### The *(partial)* List:
+### The *(partial)* list of those implicated:
 
 * Royal Bank of Canada
 * The Deutsche Bank
@@ -23,3 +23,4 @@ First, it should be noted that more research is needed to establish which— *an
 * Nico Rosberg *(Formula One driver)*
 * Petro Poroshenko *(Ukrainian president)*
 * Vladimir Putin— a **$2bn** trail.
+* Juan Armando Hinojosa Cantú *(A Mexican tycoon)*
